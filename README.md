@@ -42,8 +42,9 @@ Finally, the script displays the original and smoothed versions of the face regi
 
 You can experiment with the parameters of the bilateral filter (diameter, sigmaColor, and sigmaSpace) in the smooth_skin_2 function to achieve different levels of smoothing and edge preservation.
 
-# input image 
-
+# Input image 
+![input](https://github.com/venkateshkumarraju/Skin-Smoothing/blob/main/venkatesh.jpg)
 # Output for method 1
-
+![output1](https://github.com/venkateshkumarraju/Skin-Smoothing/blob/main/op%201.PNG)
 # Output for method 2
+![output2](https://github.com/venkateshkumarraju/Skin-Smoothing/blob/main/op2.PNG)
